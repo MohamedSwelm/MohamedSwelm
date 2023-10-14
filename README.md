@@ -5,7 +5,7 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a Data Scientist
+I'm a Data Scientist and Analyst
 
-- 🔭 I'm a Data Scientist  
+ 
   
