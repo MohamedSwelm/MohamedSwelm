@@ -5,7 +5,9 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a Data Scientist and Analyst
-
+I'm a Data Analyst | Data Scientist
+I'm Fresh grade looking for job
+I'm Familiar with many tools such Python, Ecxel ,PowerBi, Tableau, Sql ,etc..
+All of my projects are available Here
  
   
