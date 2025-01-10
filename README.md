@@ -5,9 +5,10 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a Data Analyst | Data Scientist
-I'm Fresh grade looking for job
-I'm Familiar with many tools such Python, Ecxel ,PowerBi, Tableau, Sql ,etc..
-All of my projects are available Here
+Motivated Odoo Developer with expertise in Python, PostgreSQL, and web technologies. 
+Experienced in developing, customizing, and maintaining Odoo modules to enhance business 
+operations. Adept at solving complex problems, integrating APIs, and delivering high-quality 
+solutions tailored to client needs. Committed to continuous learning and adapting to emerging 
+technologies. 
  
   
